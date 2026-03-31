@@ -1,0 +1,60 @@
+PROJECT STATEMENT
+Student Grade Predictor
+
+Problem Statement:
+Academic performance is an important part of student life, and it is often influenced by factors such as study habits and class attendance.
+
+Many students do not clearly understand how these factors affect their final academic grade. As a result, they may struggle to improve their performance in a focused way.
+
+The aim of this project is to build a simple machine learning model that can predict a student’s grade based on two basic academic inputs:
+
+- Study Hours
+- Attendance
+
+The project helps demonstrate how data analysis and machine learning can be applied to a real-world educational problem in a simple and practical manner.
+
+
+Why This Problem Matters:
+This problem is relevant because:
+
+- Students often want to estimate their academic performance
+- Teachers can use such analysis to understand student behavior
+- It shows how simple data can be used for meaningful prediction
+
+
+Proposed Solution:
+The proposed solution is to create a Python-based machine learning program that:
+
+1. Reads student academic data from a CSV file
+2. Uses Study Hours and Attendance as input features
+3. Predicts the expected student grade
+4. Demonstrates a basic educational use of machine learning
+
+
+Expected Outcome:
+The final output of the project is a prediction of student grade such as:
+
+- A
+- B
+- C
+- D
+
+This output can help in understanding how academic habits may affect performance.
+
+
+Course Relevance:
+This project is relevant to the course because it applies:
+
+- Data handling using Python
+- Basic machine learning concepts
+- Real-world problem solving
+- Practical implementation of prediction models
+
+
+Project Title:
+Student Grade Predictor
+
+Submitted By:
+Your Name
+B.Tech Student
+VIT Bhopal University
