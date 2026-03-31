@@ -55,6 +55,6 @@ Project Title:
 Student Grade Predictor
 
 Submitted By:
-Your Name
+Saksham Nema
 B.Tech Student
 VIT Bhopal University
